@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 
-title: [The homepage of Longjie Li]
+title: The homepage of Longjie Li
 
-description: [李龙杰的学术介绍]
+description: 李龙杰的学术介绍
 
-logo: ['logo.png']
+logo: logo.png
 
-show_downloads: ["false"]
+show_downloads: false
 
