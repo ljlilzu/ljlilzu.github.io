@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+
+title: [The homepage of Longjie Li]
+description: [李龙杰的学术介绍]
+
+logo: ['./logo.jpg']
+show_downloads: ["false"]
