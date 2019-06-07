@@ -8,9 +8,11 @@ layout: default
 
 ### 学习经历
 
-2003年毕业于**吉林大学**计算机科学与技术专业 获学士学位
-2006年毕业于**兰州大学**计算机软件与理论专业 获硕士学位
-2014年毕业于**兰州大学**计算机应用计算专业 或博士学位
++ 2003年毕业于**吉林大学**计算机科学与技术专业 获学士学位
+
++ 2006年毕业于**兰州大学**计算机软件与理论专业 获硕士学位
+
++ 2014年毕业于**兰州大学**计算机应用计算专业   获博士学位
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
