@@ -6,6 +6,8 @@ layout: default
 
 ## 兰州大学 信息科学与工程学院
 
+* * *
+
 ### 学习经历
 
 + 2003年毕业于**吉林大学**计算机科学与技术专业 获学士学位
@@ -13,6 +15,18 @@ layout: default
 + 2006年毕业于**兰州大学**计算机软件与理论专业 获硕士学位
 
 + 2014年毕业于**兰州大学**计算机应用计算专业   获博士学位
+
+* * *
+
+### 工作经历
+
++ 2006年7月 -- 至今 兰州大学 信息科学与工程学院
+
++ 2011年8月 -- 2013年2月 美国肯特州立大学 计算机系 访问学者
+
++ 2015年7月 -- 2017年7月 中国信息安全测评中心 博士后
+
+***
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
