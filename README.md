@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+## 李龙杰 博士
 
+兰州大学 信息科学与工程学院
+ljli@lzu.edu.cn, li.longjie@hotmail.com
 You can use the [editor on GitHub](https://github.com/ljlilzu/longjie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
