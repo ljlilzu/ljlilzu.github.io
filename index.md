@@ -61,6 +61,7 @@ layout: default
    + Physics Letters A
    + Chinese Physics B
    + Applied Soft Computing
-4. 会议论文审稿人
+4. 会议程序委员会委员
+   + 第四届CCF大数据学术会议（CCF BigData 2016） 
    + 2019年全国理论计算机科学学术年会（NCTCS2019）
 
