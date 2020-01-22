@@ -12,7 +12,7 @@ layout: default
 
 * * *
 
-### 学习经历
+## 学习经历
 
 + 2003年毕业于 吉林大学 计算机科学与技术专业 获学士学位
 
@@ -20,9 +20,9 @@ layout: default
 
 + 2014年毕业于 兰州大学 计算机应用计算专业     获博士学位
 
-* * *
+***
 
-### 研究工作经历
+## 研究工作经历
 
 + 2006年7月 -- 至今 兰州大学 信息科学与工程学院
 
@@ -32,7 +32,9 @@ layout: default
 
 ***
 
-### 主要论文
+## 主要论文
+
+### SCI论文
 
 - Bai, S., Fang, S., **Li, L.***, Liu, R., & Chen, X. (2019). Enhancing link prediction by exploring community membership of nodes. International Journal of Modern Physics B, 33(31), 1950382. https://doi.org/10.1142/S021797921950382X
 - **Li, L.***, Wang, L., Bai, S., Fang, S., Cheng, J., & Chen, X. (2019). An effective similarity measure based on kernel spectral method for complex networks. International Journal of Modern Physics C, 30(7), 1–21. https://doi.org/10.1142/S0129183119400059 
@@ -49,9 +51,13 @@ layout: default
 - **Li, L.**, Ma, M., Lei, P., Leng, M., & Chen, X. (2014). S2R&amp;R2S: A framework for ranking vertex and computing vertex-pair similarity simultaneously. *Journal of Information Science*, *40*(6). <https://doi.org/10.1177/0165551514542902>
 - **Li, L**., Ma, M., Lei, P., Wang, X., & Chen, X. (2014). A linear approximate algorithm for earth mover’s distance with thresholded ground distance. *Mathematical Problems in Engineering*, *2014*. <https://doi.org/10.1155/2014/406358>
 
+### 中文核心
+
+- 刘昱阳, **李龙杰***, 单娜陈晓云. (2020). 融合聚集系数的链接预测方法. 计算机应用, 40(1), 28–35. https://doi.org/10.11772/j.issn.1001-9081.2019061008
+- 单娜, **李龙杰***, 刘昱阳陈晓云. (2019). 基于节点连接模式相关性的链接预测方法. 计算机科学, 46(12), 20. https://doi.org/10.11896/jsjkx.190700057
 ***
 
-### 社会工作
+## 社会工作
 
 1. 中国计算机学会（CCF）会员，CCF理论计算机科学专业委员会委员
 2. 国家自然科学基金青年基金通讯评审
