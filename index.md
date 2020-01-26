@@ -36,8 +36,8 @@ layout: default
 
 ### SCI论文
 
-- Bai, S., Fang, S., **Li, L.***, Liu, R., & Chen, X. (2019). Enhancing link prediction by exploring community membership of nodes. International Journal of Modern Physics B, 33(31), 1950382. https://doi.org/10.1142/S021797921950382X
-- **Li, L.***, Wang, L., Bai, S., Fang, S., Cheng, J., & Chen, X. (2019). An effective similarity measure based on kernel spectral method for complex networks. International Journal of Modern Physics C, 30(7), 1–21. https://doi.org/10.1142/S0129183119400059 
+- Bai, S., Fang, S., **Li, L.***, Liu, R., & Chen, X. (2019). Enhancing link prediction by exploring community membership of nodes. International Journal of Modern Physics B, 33(31), 1950382. <https://doi.org/10.1142/S021797921950382X>
+- **Li, L.***, Wang, L., Bai, S., Fang, S., Cheng, J., & Chen, X. (2019). An effective similarity measure based on kernel spectral method for complex networks. International Journal of Modern Physics C, 30(7), 1–21. <https://doi.org/10.1142/S0129183119400059> 
 - **Li, L.***, Xu, S., Leng, M., Fang, S., & Chen, X. (2019). Predicting top-L missing links: An improved Local Naïve Bayes model. *IEEE Access*, *7*, 1–1. <https://doi.org/10.1109/ACCESS.2019.2914724>
 - **Li, L.***, Fang, S., Bai, S., Xu, S., Cheng, J., & Chen, X. (2019). Effective Link Prediction Based on Community Relationship Strength. *IEEE Access*, *7*, 43233–43248. <https://doi.org/10.1109/ACCESS.2019.2908208>
 - **Li, L.***, Bai, S., Leng, M., Wang, L., & Chen, X. (2018). Finding Missing Links in Complex Networks: A Multiple-Attribute Decision-Making Method. *Complexity*, *2018*, 1–16. <https://doi.org/10.1155/2018/3579758>
@@ -53,8 +53,8 @@ layout: default
 
 ### 中文核心
 
-- 刘昱阳, **李龙杰***, 单娜, 陈晓云. (2020). 融合聚集系数的链接预测方法. 计算机应用, 40(1), 28–35. https://doi.org/10.11772/j.issn.1001-9081.2019061008
-- 单娜, **李龙杰***, 刘昱, 陈晓云. (2019). 基于节点连接模式相关性的链接预测方法. 计算机科学, 46(12), 20. https://doi.org/10.11896/jsjkx.190700057
+- 刘昱阳, **李龙杰***, 单娜, 陈晓云. (2020). 融合聚集系数的链接预测方法. 计算机应用, 40(1), 28–35. <https://doi.org/10.11772/j.issn.1001-9081.2019061008>
+- 单娜, **李龙杰***, 刘昱, 陈晓云. (2019). 基于节点连接模式相关性的链接预测方法. 计算机科学, 46(12), 20.< https://doi.org/10.11896/jsjkx.190700057>
 ***
 
 ## 社会工作
