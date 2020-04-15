@@ -36,7 +36,7 @@ layout: default
 
 ### SCI论文
 
-- Bai, S., Fang, S., **Li, L.&lowast;**, Liu, R., & Chen, X. (2019). Enhancing link prediction by exploring community membership of nodes. International Journal of Modern Physics B, 33(31), 1950382. <https://doi.org/10.1142/S021797921950382X>
+- Bai, S., Fang, S., **Li, L.<sup>&lowast;</sup>**, Liu, R., & Chen, X. (2019). Enhancing link prediction by exploring community membership of nodes. International Journal of Modern Physics B, 33(31), 1950382. <https://doi.org/10.1142/S021797921950382X>
 - **Li, L.&lowast;**, Wang, L., Bai, S., Fang, S., Cheng, J., & Chen, X. (2019). An effective similarity measure based on kernel spectral method for complex networks. International Journal of Modern Physics C, 30(7), 1–21. <https://doi.org/10.1142/S0129183119400059> 
 - **Li, L.&lowast;**, Xu, S., Leng, M., Fang, S., & Chen, X. (2019). Predicting top-L missing links: An improved Local Naïve Bayes model. *IEEE Access*, *7*, 1–1. <https://doi.org/10.1109/ACCESS.2019.2914724>
 - **Li, L.&lowast;**, Fang, S., Bai, S., Xu, S., Cheng, J., & Chen, X. (2019). Effective Link Prediction Based on Community Relationship Strength. *IEEE Access*, *7*, 43233–43248. <https://doi.org/10.1109/ACCESS.2019.2908208>
