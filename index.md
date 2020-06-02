@@ -70,6 +70,7 @@ layout: default
    + Physics Letters A
    + Chinese Physics B
    + Applied Soft Computing
+   + Applied Intelligence
    + 物理学报
 4. 会议程序委员会委员
    + 第四届CCF大数据学术会议（CCF BigData 2016） 
