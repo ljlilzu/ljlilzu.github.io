@@ -37,6 +37,9 @@ layout: default
 
 + [社会服务](service.md)
 
++ [指导学生](student.md)
+
++ [Seminar](seminar.md)
 ***
 
 
