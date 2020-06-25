@@ -31,7 +31,9 @@ layout: default
 + 2015年7月 -- 2017年7月 中国信息安全测评中心 博士后
 
 ***
-<publication.md>
+## 内容导航
+
++ [发表论文](publication.md)
 
 ***
 
