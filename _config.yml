@@ -4,6 +4,8 @@ gem "github-pages", group: :jekyll_plugins
 
 title: 兰州大学 李龙杰
 
+description: [A short description of your site's purpose]
+
 logo: img/logo.png
 
 show_downloads: false
