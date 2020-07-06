@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 
+gem "github-pages", group: :jekyll_plugins
+
 title: 兰州大学 李龙杰
 
 logo: img/logo.png
