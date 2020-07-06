@@ -4,7 +4,7 @@ gem "github-pages", group: :jekyll_plugins
 
 title: 兰州大学 李龙杰
 
-description: [A short description of your site's purpose]
+description: [实验室学风优良，定期进行实验室内部的学术讨论和交流，每周召开组会，研究生可随时与导师进行交流、讨论，鼓励学生尽早总结和发表科研成果。欢迎对数据挖掘、复杂网络分析等方向感兴趣的同学加入，也欢迎本科生参与实验室的科研工作。]
 
 logo: img/logo.png
 
