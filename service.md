@@ -16,7 +16,7 @@
    - Applied Intelligence
    - Journal of Information Science
    - 物理学报
-   - ...
+   - Scientific Reports 
 
 4. 程序委员会委员
    - 第四届CCF大数据学术会议（CCF BigData 2016）
