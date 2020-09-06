@@ -33,7 +33,7 @@ layout: default
 ***
 ## 内容导航
 
-+ [发表论文](publication.md)
++ [发表论文](publication.md)                    + [发表论文](publication.md)
 
 + [社会服务](service.md)
 
