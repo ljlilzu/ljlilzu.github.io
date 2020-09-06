@@ -33,7 +33,7 @@ layout: default
 ***
 ## 内容导航
 
-+ [发表论文](publication.md)                    + [发表论文](publication.md)
++ [发表论文](publication.md)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   &bull; [《数据库系统原理》课程资料](course.html)
 
 + [社会服务](service.md)
 
