@@ -39,7 +39,7 @@ layout: default
 
 + [指导学生](student.md)
 
-[//]: #  + [Seminar记录](seminar/list.md)
+<!-- + [Seminar记录](seminar/list.md) -->
 
 
 
