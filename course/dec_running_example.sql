@@ -7,7 +7,7 @@ create table Beers
 
 create table Bars
 (
-	name varchar(20) primary key,
+	name varchar(30) primary key,
 	addr varchar(100),
 	license char(10)
 );
@@ -28,7 +28,7 @@ create table Likes
 
 create table Sells
 (
-	bar varchar(20),
+	bar varchar(30),
 	beer varchar(20),
 	price float,
 	primary key(bar, beer)
@@ -37,6 +37,6 @@ create table Sells
 create table Frequents
 (
 	drinker	char(30),
-	bar varchar(20),
+	bar varchar(30),
 	primary key(drinker, bar)
 );
