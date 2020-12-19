@@ -2,6 +2,7 @@
 
 ### SCI论文
 
+1. **Li, L.<sup>&lowast;</sup>**, Wang, L., Luo, H., & Chen, X. (2021). Towards effective link prediction: A hybrid similarity model. *Journal of Intelligent & Fuzzy Systems*, Pre-press. <https://doi.org/10.3233/JIFS-200344>
 1. Shan, N., **Li, L.<sup>&lowast;</sup>**,  Zhang, Y., Bai, S., & Chen, X. (2020). Supervised link prediction in multiplex networks. *Knowledge-Based Systems*, *203*, 106168. <https://doi.org/10.1016/j.knosys.2020.106168>
 1. Bai, S., Fang, S., **Li, L.<sup>&lowast;</sup>**, Liu, R., & Chen, X. (2019). Enhancing link prediction by exploring community membership of nodes. International Journal of Modern Physics B, 33(31), 1950382. <https://doi.org/10.1142/S021797921950382X>
 1. **Li, L.<sup>&lowast;</sup>**, Wang, L., Bai, S., Fang, S., Cheng, J., & Chen, X. (2019). An effective similarity measure based on kernel spectral method for complex networks. International Journal of Modern Physics C, 30(7), 1–21. <https://doi.org/10.1142/S0129183119400059> 
