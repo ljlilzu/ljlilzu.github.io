@@ -2,6 +2,7 @@
 
 ### SCI论文
 
+1. **Li, L.<sup>&lowast;</sup>**, Wang, H., Fang, S., Shan, N., & Chen, X. (2021). A supervised similarity measure for link prediction based on KNN. *International Journal of Modern Physics C*, Accepted.
 1. Luo, H., **Li, L.<sup>&lowast;</sup>**, Fang, S.,  & Chen, X. (2021). Link Prediction in Multiplex Networks using a Novel Multiple-Attribute Decision-Making Approach. *Knowledge-Based Systems*, *219*, 106904. <https://doi.org/10.1016/j.knosys.2021.106904>
 1. **Li, L.<sup>&lowast;</sup>**, Wang, L., Luo, H., & Chen, X. (2021). Towards effective link prediction: A hybrid similarity model. *Journal of Intelligent & Fuzzy Systems*, *40*(3). <https://doi.org/10.3233/JIFS-200344>
 1. Shan, N., **Li, L.<sup>&lowast;</sup>**,  Zhang, Y., Bai, S., & Chen, X. (2020). Supervised link prediction in multiplex networks. *Knowledge-Based Systems*, *203*, 106168. <https://doi.org/10.1016/j.knosys.2020.106168>
