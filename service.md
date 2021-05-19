@@ -18,6 +18,7 @@
    - 物理学报
    - Scientific Reports
    - Computer Journal
+   - Complexity
 
 4. 程序委员会委员
    - 第四届CCF大数据学术会议（CCF BigData 2016）
