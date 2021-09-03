@@ -2,7 +2,7 @@
 
 ### SCI论文
 
-1. 1. Liu, P., **Li, L.<sup>&lowast;</sup>**, Fang, S. & Yao, Y. Identifying influential nodes in social networks: A voting approach. Chaos, Solitons & Fractals 152, 111309 (2021). <https://doi.org/10.1016/j.chaos.2021.111309>
+1. Liu, P., **Li, L.<sup>&lowast;</sup>**, Fang, S. & Yao, Y. Identifying influential nodes in social networks: A voting approach. Chaos, Solitons & Fractals 152, 111309 (2021). <https://doi.org/10.1016/j.chaos.2021.111309>
 2. Bai, S., Zhang, Y., **Li, L.<sup>&lowast;</sup>**, Shan, N., & Chen, X. (2021). Effective Link Prediction in Multiplex Networks: A TOPSIS Method. *Expert Systems With Applications*, *177*, 114973. <https://doi.org/10.1016/j.eswa.2021.114973>
 3. **Li, L.<sup>&lowast;</sup>**, Wang, H., Fang, S., Shan, N., & Chen, X. (2021). A supervised similarity measure for link prediction based on KNN. *International Journal of Modern Physics C*, Online Ready. <https://doi.org/10.1142/S0129183121501126>
 4. Luo, H., **Li, L.<sup>&lowast;</sup>**, Fang, S.,  & Chen, X. (2021). Link Prediction in Multiplex Networks using a Novel Multiple-Attribute Decision-Making Approach. *Knowledge-Based Systems*, *219*, 106904. <https://doi.org/10.1016/j.knosys.2021.106904>
