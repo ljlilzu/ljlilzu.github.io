@@ -23,6 +23,7 @@
    - Computer Journal
    - Complexity
    - IEEE Access
+   - Big Data
 
 4. 程序委员会委员
    - 第四届CCF大数据学术会议（CCF BigData 2016）
