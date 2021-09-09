@@ -34,11 +34,12 @@ layout: default
 ***
 ## 内容导航
 
-+ [发表论文](publication.md)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   &bull; [《数据库系统原理》课程资料](course.html)
++ [发表论文](publication.md) 
 
 + [社会服务](service.md)
 
 + [指导学生](student.md)
+
 
 <!-- + [Seminar记录](seminar/list.md) -->
 
