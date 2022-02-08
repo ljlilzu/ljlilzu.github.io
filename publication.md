@@ -3,7 +3,7 @@
 ### SCI论文
 
 **2022**
-1. Bai, S., **Li, L.<sup>&lowast;</sup>**,  & Chen, X. (2022). Conflicting evidence combination based on Belief Mover’s Distance, *Journal of Intelligent & Fuzzy Systems*, Pre-press. <https://doi.org/10.3233/JIFS-211397>. 
+1. Bai, S., **Li, L.<sup>&lowast;</sup>**,  & Chen, X. (2022). Conflicting evidence combination based on Belief Mover’s Distance, *Journal of Intelligent & Fuzzy Systems*, 42(3), 2005-2021. <https://doi.org/10.3233/JIFS-211397>. 
 
 **2021**
 
