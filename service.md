@@ -6,6 +6,7 @@
 
 3. SCI期刊审稿人
    - IEEE Transactions on Intelligent Transportation Systems
+   - IEEE Transactions on Neural Networks and Learning Systems
    - Knowledge-based Systems
    - International Journal of Modern Physics B
    - International Journal of Modern Physics C
