@@ -3,6 +3,7 @@
 ### SCI论文
 
 **2022**
+1. **Li, L.<sup>&lowast;</sup>**, Wen, Y., Bai, S. & Liu, P. (2022). Link prediction in weighted networks via motif predictor. *Knowledge-Based Systems*, In Press. <https://doi.org/10.1016/j.knosys.2022.108402>
 1. Bai, S., **Li, L.<sup>&lowast;</sup>**,  & Chen, X. (2022). Conflicting evidence combination based on Belief Mover’s Distance, *Journal of Intelligent & Fuzzy Systems*, 42(3), 2005-2021. <https://doi.org/10.3233/JIFS-211397>. 
 
 **2021**
