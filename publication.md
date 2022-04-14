@@ -1,7 +1,5 @@
 ## 主要论文
 
-### SCI论文
-
 **2022**
 1. **Li, L.<sup>&lowast;</sup>**, Wen, Y., Bai, S. & Liu, P. (2022). Link prediction in weighted networks via motif predictor. *Knowledge-Based Systems*, 242, 108402. <https://doi.org/10.1016/j.knosys.2022.108402>
 1. Bai, S., **Li, L.<sup>&lowast;</sup>**,  & Chen, X. (2022). Conflicting evidence combination based on Belief Mover’s Distance, *Journal of Intelligent & Fuzzy Systems*, 42(3), 2005-2021. <https://doi.org/10.3233/JIFS-211397>. 
@@ -17,6 +15,8 @@
 **2020**
 
 1. Shan, N., **Li, L.<sup>&lowast;</sup>**,  Zhang, Y., Bai, S., & Chen, X. (2020). Supervised link prediction in multiplex networks. *Knowledge-Based Systems*, 203, 106168. <https://doi.org/10.1016/j.knosys.2020.106168>
+1. **李龙杰<sup>&lowast;</sup>**, 胡江龙, 陈晓云. (2020). 基于节点连接模式的缺失节点识别方法. *华中科技大学学报（自然科学版）*, 48(8), 91–97. https://doi.org/10.13245/j.hust.200816
+1. 刘昱阳, **李龙杰<sup>&lowast;</sup>**, 单娜, 陈晓云. (2020). 融合聚集系数的链接预测方法. *计算机应用*, 40(1), 28–35. <https://doi.org/10.11772/j.issn.1001-9081.2019061008>
 
 **2019**
 
@@ -25,6 +25,7 @@
 1. **Li, L.<sup>&lowast;</sup>**, Xu, S., Leng, M., Fang, S., & Chen, X. (2019). Predicting top-L missing links: An improved Local Naïve Bayes model. *IEEE Access*, 7, 1–1. <https://doi.org/10.1109/ACCESS.2019.2914724>
 1. **Li, L.<sup>&lowast;</sup>**, Fang, S., Bai, S., Xu, S., Cheng, J., & Chen, X. (2019). Effective Link Prediction Based on Community Relationship Strength. *IEEE Access*, 7, 43233–43248. <https://doi.org/10.1109/ACCESS.2019.2908208>
 1. Cheng, J., Su, X., Yang, H., **Li, L.**, Zhang, J., Zhao, S., & Chen, X. (2019). Neighbor Similarity Based Agglomerative Method for Community Detection in Networks. *Complexity*, 2019, 1–16. <https://doi.org/10.1155/2019/8292485>
+1. 单娜, **李龙杰<sup>&lowast;</sup>**, 刘昱阳, 陈晓云. (2019). 基于节点连接模式相关性的链接预测方法. *计算机科学*, 46(12), 20. <https://doi.org/10.11896/jsjkx.190700057>
 
 **2018**
 
@@ -46,9 +47,3 @@
 1. Jin, R., Lee, V. E., & **Li, L.** (2014). Scalable and axiomatic ranking of network role similarity. *ACM Transactions on Knowledge Discovery from Data*, 8(1). <https://doi.org/10.1145/2518176>
 1. **Li, L.**, Ma, M., Lei, P., Leng, M., & Chen, X. (2014). S2R&amp;R2S: A framework for ranking vertex and computing vertex-pair similarity simultaneously. *Journal of Information Science*, 40(6). <https://doi.org/10.1177/0165551514542902>
 1. **Li, L**., Ma, M., Lei, P., Wang, X., & Chen, X. (2014). A linear approximate algorithm for earth mover’s distance with thresholded ground distance. *Mathematical Problems in Engineering*, 2014. <https://doi.org/10.1155/2014/406358>
-
-### 中文核心
-
-1. **李龙杰<sup>&lowast;</sup>**, 胡江龙, 陈晓云. (2020). 基于节点连接模式的缺失节点识别方法. *华中科技大学学报（自然科学版）*, 48(8), 91–97. https://doi.org/10.13245/j.hust.200816
-1. 刘昱阳, **李龙杰<sup>&lowast;</sup>**, 单娜, 陈晓云. (2020). 融合聚集系数的链接预测方法. *计算机应用*, 40(1), 28–35. <https://doi.org/10.11772/j.issn.1001-9081.2019061008>
-1. 单娜, **李龙杰<sup>&lowast;</sup>**, 刘昱阳, 陈晓云. (2019). 基于节点连接模式相关性的链接预测方法. *计算机科学*, 46(12), 20. <https://doi.org/10.11896/jsjkx.190700057>
