@@ -1,6 +1,7 @@
 ## 主要论文
 
 **2022**
+1. Luo, H., **Li, L.<sup>&lowast;</sup>**, Dong, H.,  & Chen, X. (2022). Link prediction in multiplex networks: An evidence theory method. *Knowledge-Based Systems*, , 109932. <https://doi.org/10.1016/j.knosys.2022.109932>
 1. Fang, S., **Li, L.<sup>&lowast;</sup>**, Hu, B., & Chen, X. (2022). Evidential link prediction by exploiting the applicability of similarity indexes to nodes. *Expert Systems with Applications*, 210, 118397. https://doi.org/10.1016/j.eswa.2022.118397
 1. **Li, L.<sup>&lowast;</sup>**, Wen, Y., Bai, S. & Liu, P. (2022). Link prediction in weighted networks via motif predictor. *Knowledge-Based Systems*, 242, 108402. <https://doi.org/10.1016/j.knosys.2022.108402>
 1. Bai, S., **Li, L.<sup>&lowast;</sup>**,  & Chen, X. (2022). Conflicting evidence combination based on Belief Mover’s Distance, *Journal of Intelligent & Fuzzy Systems*, 42(3), 2005-2021. <https://doi.org/10.3233/JIFS-211397>. 
