@@ -1,5 +1,9 @@
 ## 主要论文
 
+**2023**
+
+1. 张亚坤, **李龙杰<sup>&lowast;</sup>**, 陈晓云. (2023). 利用朴素贝叶斯模型进行多层网络链接预测. *应用科学学报*, 41(1), 23–40. https://doi.org/10.3969/j.issn.0255-8297.2023.01.003
+
 **2022**
 1. Luo, H., **Li, L.<sup>&lowast;</sup>**, Dong, H.,  & Chen, X. (2022). Link prediction in multiplex networks: An evidence theory method. *Knowledge-Based Systems*, 257, 109932. <https://doi.org/10.1016/j.knosys.2022.109932>
 1. Fang, S., **Li, L.<sup>&lowast;</sup>**, Hu, B., & Chen, X. (2022). Evidential link prediction by exploiting the applicability of similarity indexes to nodes. *Expert Systems with Applications*, 210, 118397. https://doi.org/10.1016/j.eswa.2022.118397
