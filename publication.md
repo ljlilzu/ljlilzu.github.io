@@ -1,7 +1,7 @@
 ## 主要论文
 
 **2023**
-
+1. Liu, P., **Li, L.<sup>&lowast;</sup>**, Wen, Y. & Fang, S. (2023). Identifying influential nodes in social networks: Exploiting self-voting mechanism. *Big Data*, Accepted
 1. 张亚坤, **李龙杰<sup>&lowast;</sup>**, 陈晓云. (2023). 利用朴素贝叶斯模型进行多层网络链接预测. *应用科学学报*, 41(1), 23–40. https://doi.org/10.3969/j.issn.0255-8297.2023.01.003
 
 **2022**
