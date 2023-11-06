@@ -1,12 +1,12 @@
 ## 主要论文
 
 **2023**
-1. Sun, Y., Zhao, Y., **Li, L.<sup>&lowast;</sup>**, Dong, H., 2023. Heterogeneous line graph neural network for link prediction. *International Conference Advanced Data Mining and Applications (ADMA'23)*.
+1. Sun, Y., Zhao, Y., **Li, L.<sup>&lowast;</sup>**, Dong, H., 2023. Heterogeneous line graph neural network for link prediction. *International Conference Advanced Data Mining and Applications (ADMA'23)*. <https://doi.org/10.1007/978-3-031-46677-9_1>.
 1. Shan, N., Yang, W., Zhang, Z., **Li, L.<sup>&lowast;</sup>**, 2023. Link prediction in multiplex network based on regression and conditional probability. *2023年CCF全国理论计算机科学学术年会*.
 1. Jia, E., Tian, D., Nan, T., **Li, L.<sup>&lowast;</sup>**, 2023. Link prediction in dynamic networks based on topological and historical information. *2023年CCF全国理论计算机科学学术年会*.
-1. Zhao, Y., Sun, Y., Huang, Y., **Li, L.<sup>&lowast;</sup>**, Dong, H., 2023. Link prediction in heterogeneous networks based on metapath projection and aggregation. *Expert Systems with Applications* 227, 120325. https://doi.org/10.1016/j.eswa.2023.120325
-1. Liu, P., **Li, L.<sup>&lowast;</sup>**, Wen, Y. & Fang, S. (2023). Identifying influential nodes in social networks: Exploiting self-voting mechanism. *Big Data*, https://doi.org/10.1089/big.2022.0165
-1. 张亚坤, **李龙杰<sup>&lowast;</sup>**, 陈晓云. (2023). 利用朴素贝叶斯模型进行多层网络链接预测. *应用科学学报*, 41(1), 23–40. https://doi.org/10.3969/j.issn.0255-8297.2023.01.003
+1. Zhao, Y., Sun, Y., Huang, Y., **Li, L.<sup>&lowast;</sup>**, Dong, H., 2023. Link prediction in heterogeneous networks based on metapath projection and aggregation. *Expert Systems with Applications* 227, 120325. <https://doi.org/10.1016/j.eswa.2023.120325>.
+1. Liu, P., **Li, L.<sup>&lowast;</sup>**, Wen, Y. & Fang, S. (2023). Identifying influential nodes in social networks: Exploiting self-voting mechanism. *Big Data*, <https://doi.org/10.1089/big.2022.0165>.
+1. 张亚坤, **李龙杰<sup>&lowast;</sup>**, 陈晓云. (2023). 利用朴素贝叶斯模型进行多层网络链接预测. *应用科学学报*, 41(1), 23–40. <https://doi.org/10.3969/j.issn.0255-8297.2023.01.003>.
 
 **2022**
 1. Luo, H., **Li, L.<sup>&lowast;</sup>**, Dong, H.,  & Chen, X. (2022). Link prediction in multiplex networks: An evidence theory method. *Knowledge-Based Systems*, 257, 109932. <https://doi.org/10.1016/j.knosys.2022.109932>
