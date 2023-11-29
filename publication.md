@@ -2,7 +2,7 @@
 **2024**
 1. Dong, H., **Li, L.<sup>&lowast;</sup>**, Tian, D., Sun, Y., Zhao, Y., 2024. Dynamic link prediction by learning the representation of node-pair via graph neural networks. *Expert Systems with Applications*, 241, 122685. <https://doi.org/10.1016/j.eswa.2023.122685>
 1. Jia, E., Tian, D., Nan, T., **Li, L.<sup>&lowast;</sup>**, 2024. Link Prediction in Dynamic Networks Based on Topological and Historical Information, *Theoretical Computer Science, Communications in Computer and Information Science*. Springer Nature, pp. 203–220. <https://doi.org/10.1007/978-981-99-7743-7_13>
-1. Shan, N., Yang, W., Zhang, Z., Li, L., 2024. Link Prediction in Multiplex Network Based on Regression and Conditional Probability, *Theoretical Computer Science, Communications in Computer and Information Science*. Springer Nature Singapore, pp. 221–236. <https://doi.org/10.1007/978-981-99-7743-7_14>
+1. Shan, N., Yang, W., Zhang, Z., **Li, L.<sup>&lowast;</sup>**., 2024. Link Prediction in Multiplex Network Based on Regression and Conditional Probability, *Theoretical Computer Science, Communications in Computer and Information Science*. Springer Nature Singapore, pp. 221–236. <https://doi.org/10.1007/978-981-99-7743-7_14>
 
 
 **2023**
