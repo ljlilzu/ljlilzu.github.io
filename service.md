@@ -31,5 +31,8 @@
 5. 程序委员会委员
    - 第四届CCF大数据学术会议（CCF BigData 2016）
    - 2019年全国理论计算机科学学术年会（NCTCS2019）
+   - The 12th International Conference on Complex Networks and their Applications (CNA 2023)
+   - The 13th International Conference on Complex Networks and their Applications (CNA 2024)
+   - 2024年全国理论计算机科学学术年会（NCTCS2024）
 
  
