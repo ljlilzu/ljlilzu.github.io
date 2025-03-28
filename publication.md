@@ -1,5 +1,6 @@
 ## 主要论文
 **2024**
+1. 祁瑞艳, **李龙杰**, 徐世琤, 马笠恭, **马志新<sup>&lowast;</sup>**, 2024. 基于跨度与类别增强的中文新闻命名实体识别. *智能科学与技术学报*, 6, 495–508. https://doi.org/10.11959/j.issn.2096-6652.202437
 1. Si, L., **Li, L.<sup>&lowast;</sup>**, Luo, H., **Ma, Z.<sup>&lowast;</sup>**, 2024. Link prediction in multiplex social networks: An information transmission approach. *Chaos, Solitons & Fractals*, 189, 115683. <https://doi.org/10.1016/j.chaos.2024.115683>
 1. Yang, W., **Li, L.<sup>&lowast;</sup>**, Bai, S., Ma, Z., 2024. IS-GNN: Graph neural network enhanced by aggregating influential and structurally similar nodes. *Knowledge-Based Systems*, 301, 112282. <https://doi.org/10.1016/j.knosys.2024.112282>
 1. Fang, S., **Li, L.<sup>&lowast;</sup>**, Bai, S., **Ma, Z.<sup>&lowast;</sup>**, Chen, X. Link Prediction based on Fundamental Heuristic Elements. *International Journal of Modern Physics C*, 235, 245016. <https://doi.org/10.1142/S0129183124501614>
