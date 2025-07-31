@@ -10,29 +10,19 @@
    - IEEE Transactions on Intelligent Transportation Systems
    - IEEE Transactions on Neural Networks and Learning Systems
    - Knowledge-based Systems
-   - International Journal of Modern Physics B
-   - International Journal of Modern Physics C
-   - International Journal of Approximate Reasoning
-   - Journal of Experimental & Theoretical Artificial Intelligence
-   - Physics Letters A
-   - Chinese Physics B
+   - Information Processing & Management
    - Applied Soft Computing
    - Applied Intelligence
-   - Journal of Information Science
-   - Journal of Intelligent & Fuzzy Systems
-   - Journal of Circuits, Systems, and Computers
-   - 物理学报
-   - Scientific Reports
-   - Computer Journal
-   - Complexity
-   - IEEE Access
-   - Big Data
+   - Expert Systems with Applications
+   - Neurocomputing
+   - Engineering Applications of Artificial Intelligence
+   - Chaos, Solitons & Fractals
+   - ...
 
 5. 程序委员会委员
    - 第四届CCF大数据学术会议（CCF BigData 2016）
    - 2019年全国理论计算机科学学术年会（NCTCS2019）
    - The 12th International Conference on Complex Networks and their Applications (CNA 2023)
    - The 13th International Conference on Complex Networks and their Applications (CNA 2024)
+   - The 13th International Conference on Complex Networks and their Applications (CNA 2025)
    - 2024年全国理论计算机科学学术年会（NCTCS2024）
-
- 
