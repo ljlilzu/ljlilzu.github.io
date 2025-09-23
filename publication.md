@@ -1,4 +1,8 @@
-## 主要论文
+## 论文与专利
+**2025**
+1. **李龙杰**, 胡江龙, 陈晓云.一种基于层次化链接模式的多尺度链接预测方法和系统. ZL 2022 1 0402373.6, 2025-09-16
+1. **李龙杰**, 张亚坤, 陈晓云. 一种基于朴素贝叶斯模型的多层网络链接预测方法. ZL 2022 1 0399326.0, 2025-03-21
+   
 **2024**
 1. 祁瑞艳, **李龙杰**, 徐世琤, 马笠恭, **马志新<sup>&lowast;</sup>**, 2024. 基于跨度与类别增强的中文新闻命名实体识别. *智能科学与技术学报*, 6, 495–508. https://doi.org/10.11959/j.issn.2096-6652.202437
 1. Si, L., **Li, L.<sup>&lowast;</sup>**, Luo, H., **Ma, Z.<sup>&lowast;</sup>**, 2024. Link prediction in multiplex social networks: An information transmission approach. *Chaos, Solitons & Fractals*, 189, 115683. <https://doi.org/10.1016/j.chaos.2024.115683>
