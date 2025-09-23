@@ -53,7 +53,7 @@ layout: default
 
 ## 内容导航
 
-+ [发表论文](publication.md) 
++ [论文/专利](publication.md) 
 
 + [社会服务](service.md)
 
