@@ -4,11 +4,11 @@
 1. **李龙杰**, 张亚坤, 陈晓云. 一种基于朴素贝叶斯模型的多层网络链接预测方法. ZL 2022 1 0399326.0, 2025-03-21
    
 **2024**
-1. 祁瑞艳, **李龙杰**, 徐世琤, 马笠恭, **马志新<sup>&lowast;</sup>**, 2024. 基于跨度与类别增强的中文新闻命名实体识别. *智能科学与技术学报*, 6, 495–508. https://doi.org/10.11959/j.issn.2096-6652.202437
+1. 祁瑞艳, **李龙杰**, 徐世琤, 马笠恭, **马志新<sup>&lowast;</sup>**, 2024. 基于跨度与类别增强的中文新闻命名实体识别. *智能科学与技术学报*, 6, 495–508. <https://doi.org/10.11959/j.issn.2096-6652.202437>
 1. Si, L., **Li, L.<sup>&lowast;</sup>**, Luo, H., **Ma, Z.<sup>&lowast;</sup>**, 2024. Link prediction in multiplex social networks: An information transmission approach. *Chaos, Solitons & Fractals*, 189, 115683. <https://doi.org/10.1016/j.chaos.2024.115683>
 1. Yang, W., **Li, L.<sup>&lowast;</sup>**, Bai, S., Ma, Z., 2024. IS-GNN: Graph neural network enhanced by aggregating influential and structurally similar nodes. *Knowledge-Based Systems*, 301, 112282. <https://doi.org/10.1016/j.knosys.2024.112282>
 1. Fang, S., **Li, L.<sup>&lowast;</sup>**, Bai, S., **Ma, Z.<sup>&lowast;</sup>**, Chen, X. Link Prediction based on Fundamental Heuristic Elements. *International Journal of Modern Physics C*, 235, 245016. <https://doi.org/10.1142/S0129183124501614>
-1. Mao, C., **Li, L.<sup>&lowast;</sup>**, Liu, L., **Ma, Z.<sup>&lowast;</sup>**. Identification of Key Classes in Software Systems Based on Static Analysis and Voting Mechanism. *International Journal of Software Engineering and Knowledge Engineering*, 2024. <https://doi.org/10.1142/S0218194024500220>
+1. Mao, C., **Li, L.<sup>&lowast;</sup>**, Liu, L., **Ma, Z.<sup>&lowast;</sup>**, 2024. Identification of Key Classes in Software Systems Based on Static Analysis and Voting Mechanism. *International Journal of Software Engineering and Knowledge Engineering*, 34(9), 1513-1535. <https://doi.org/10.1142/S0218194024500220>
 1. **Li, L.**, Yang, W., Bai, S., **Ma, Z.<sup>&lowast;</sup>**, 2024. KNN-GNN: A powerful graph neural network enhanced by aggregating K-nearest neighbors in common subspace. *Expert Systems with Applications*, 253, 124217. <https://doi.org/10.1016/j.eswa.2024.124217>
 1. Dong, H., **Li, L.<sup>&lowast;</sup>**, Tian, D., Sun, Y., Zhao, Y., 2024. Dynamic link prediction by learning the representation of node-pair via graph neural networks. *Expert Systems with Applications*, 241, 122685. <https://doi.org/10.1016/j.eswa.2023.122685>
 1. Jia, E., Tian, D., Nan, T., **Li, L.<sup>&lowast;</sup>**, 2024. Link Prediction in Dynamic Networks Based on Topological and Historical Information, *Theoretical Computer Science, Communications in Computer and Information Science*. Springer Nature, pp. 203–220. <https://doi.org/10.1007/978-981-99-7743-7_13>
