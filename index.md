@@ -13,6 +13,12 @@ layout: default
 
 * * *
 
+## 论文征稿
+
++ Electronics：面向工业的人工智能 | MDPI 特刊征稿<https://mp.weixin.qq.com/s/-grgusYvMoPWJsSxl_WYZw>
++ 2026年IEEE第四届模式识别、机器视觉和人工智能国际会议（IEEE PRMVAI 2026）<https://www.prmvai.org/> (Workshop 14: Trustworthy Al and Cyberspace Security)
+
+
 ## 学习经历
 
 + 2003年毕业于 吉林大学 计算机科学与技术专业 获学士学位
