@@ -1,4 +1,8 @@
 ## 论文与专利
+
+**2026**
+1. Si, L., **Li, L.<sup>&lowast;</sup>**, Yuan, W., **Ma, Z.<sup>&lowast;</sup>**, 2026. Link prediction in multiplex social networks based on information transmission graph neural networks. *International Journal of Modern Physics C*. <https://doi.org/10.1142/s0129183127500252>
+
 **2025**
 1. 徐世琤, 祁瑞艳, **李龙杰**, 马笠恭, 马志新<sup>&lowast;</sup>, 2025. 基于对比学习的半监督命名实体识别. *兰州大学学报（自然科学版）*, 61(5), 634–642. https://doi.org/10.13885/j.issn.0455-2059.2025.05.010
 1. 刘莉, 王徽, 杨亮, **李龙杰<sup>&lowast;</sup>**, 马笠恭, 2025. 基于全局特征增强的新闻推荐模型. *华中科技大学学报（自然科学版）*, 53(10), 29-35. <https://doi.org/110.13245/j.hust.251094>
